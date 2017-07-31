@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    RecyclerView mFeedList;
+    private RecyclerView mFeedList;
     private TextView mSuspensionTv;
 
     private int mSuspensionHeight;
