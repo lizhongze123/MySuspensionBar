@@ -1,6 +1,6 @@
 # MySuspensionBar
 RecyclerView实现日期悬浮条
 
-![image](https://github.com/lizhongze123/MySuspensionBar/gif/GIF2.gif)
+![image](https://github.com/lizhongze123/MySuspensionBar/test.gif)
 
 参考博客：http://www.jianshu.com/p/fe69a53502ab
